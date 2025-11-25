@@ -13,3 +13,11 @@ git
 desafio-final
           
 git add .
+
+
+
+
+eu preciso colocar essas imagens l´a  
+img
+[Key.delete] [Key.delete] [Key.delete] img
+git add .
